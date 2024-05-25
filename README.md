@@ -1,10 +1,4 @@
 # Android device tree for motorola moto g72 (vicky)
 
-```
-#
-# Copyright (C) 2024 The Android Open Source Project
-# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
+# Clone
+    git clone https://github.com/TheNoobDevs/android_device_motorola_vicky -b twrp-12.1 device/motorola/vicky
