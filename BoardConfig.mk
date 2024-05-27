@@ -6,7 +6,7 @@
 #
 
 DEVICE_PATH := device/motorola/vicky
-KERNEL_PATH := device/motorola/vicky-kernel
+KERNEL_PATH := kernel/motorola/vicky
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
