@@ -6,7 +6,7 @@
 #
 
 LOCAL_PATH := device/motorola/vicky
-KERNEL_PATH := device/motorola/vicky-kernel
+KERNEL_PATH := kernel/motorola/vicky
 
 # Hidl Service
 PRODUCT_ENFORCE_VINTF_MANIFEST := true
