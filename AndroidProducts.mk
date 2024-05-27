@@ -9,4 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_vicky.mk
 
 COMMON_LUNCH_CHOICES := \
+    twrp_vicky-user \
+    twrp_vicky-userdebug \
     twrp_vicky-eng
