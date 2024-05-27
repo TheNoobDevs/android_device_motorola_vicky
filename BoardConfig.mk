@@ -88,7 +88,7 @@ BOARD_KERNEL_CMDLINE := androidboot.selinux=permissive
 
 # Prebuilt
 BOARD_PREBUILT_DTBIMAGE_DIR := $(KERNEL_PATH)
-TARGET_PREBUILT_DTB := $(BOARD_PREBUILT_DTBIMAGE_DIR)/dtb.img
+TARGET_PREBUILT_DTB := $(BOARD_PREBUILT_DTBIMAGE_DIR)/mt6789.dtb
 
 BOARD_INCLUDE_DTB_IN_BOOTIMG := true
 TARGET_KERNEL_SOURCE := device/motorola/cancunf-kernel/kernel-headers
